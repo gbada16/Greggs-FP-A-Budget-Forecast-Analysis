@@ -14,7 +14,7 @@ The project demonstrates practical Excel, financial analysis, budgeting, forecas
 
 ## Dashboard
 
-![Greggs FP&A Dashboard](images/dashboard.png)
+![Greggs FP&A Dashboard](images/Dashboard.png)
 
 ---
 
